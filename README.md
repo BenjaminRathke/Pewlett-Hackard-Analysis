@@ -11,7 +11,7 @@ Pewlett-Hackard will soon be experiencing a very large portion of their workforc
 * It would appear that, even though there are only two managers retiring, there are no other managers eligible to provide mentorship to new hires. 
 
 ## Employee Database Analysis Summary
-* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?  
   **90,398  
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   **Unfortunately, there are not enough qualified retirement-ready employees in the departments to mentor the next generation.  As mentioned earlier, there is only one eligible mentor to every 58~59 positions that will soon be open, and in the case of management, there are no eligiblie mentors at all.  Aggressive training and recruitment programs may be necessary to ease the transition.  
