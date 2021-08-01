@@ -66,5 +66,5 @@ ON (em.emp_no = ti.emp_no)
 WHERE (de.to_date = '9999-01-01')
 AND (em.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY em.emp_no;
-
+-- 4. Confirm output.
 SELECT * FROM mentorship_eligibility
