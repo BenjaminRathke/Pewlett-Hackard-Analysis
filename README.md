@@ -4,8 +4,7 @@
 Pewlett-Hackard will soon be experiencing a very large portion of their workforce retiring.  In order to plan and respond to this, the company needs to know the number of retiring employees, their titles, and employees that may be able to provide mentorship to new hires replacing the retiring employees.
 
 ## Employee Database Analysis Results
-![retiring_titles](Resources/retiring_titles.PNG)  
-![retiring_titles](Resources/promo_elig.PNG)  
+![retiring_titles](Resources/retiring_titles.PNG)  ![retiring_titles](Resources/promo_elig.PNG)  
 * Compounding what would already be a disruptive loss of human resources is the fact that most of the retiring positions are experienced senior engineers and senior staff. 
 * A very small number of managers and leadership are retiring.  Most positions that will need to be filled will be technically focused. 
 * There is a small pool of eligible mentors compared to retiring positions.  
